@@ -1,0 +1,30 @@
+C:\Users\danie\source\repos\Calculadora\Calculadora.ConsoleApp\bin\Debug\net6.0\Calculadora.ConsoleApp.exe
+C:\Users\danie\source\repos\Calculadora\Calculadora.ConsoleApp\bin\Debug\net6.0\Calculadora.ConsoleApp.deps.json
+C:\Users\danie\source\repos\Calculadora\Calculadora.ConsoleApp\bin\Debug\net6.0\Calculadora.ConsoleApp.runtimeconfig.json
+C:\Users\danie\source\repos\Calculadora\Calculadora.ConsoleApp\bin\Debug\net6.0\Calculadora.ConsoleApp.dll
+C:\Users\danie\source\repos\Calculadora\Calculadora.ConsoleApp\bin\Debug\net6.0\ref\Calculadora.ConsoleApp.dll
+C:\Users\danie\source\repos\Calculadora\Calculadora.ConsoleApp\bin\Debug\net6.0\Calculadora.ConsoleApp.pdb
+C:\Users\danie\source\repos\Calculadora\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Calculadora\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Calculadora\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Calculadora\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.AssemblyInfo.cs
+C:\Users\danie\source\repos\Calculadora\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Calculadora\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.dll
+C:\Users\danie\source\repos\Calculadora\Calculadora.ConsoleApp\obj\Debug\net6.0\ref\Calculadora.ConsoleApp.dll
+C:\Users\danie\source\repos\Calculadora\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.pdb
+C:\Users\danie\source\repos\Calculadora\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.genruntimeconfig.cache
+C:\Users\danie\Desktop\Academia do Programador 2022\Calculadora\Calculadora.ConsoleApp\bin\Debug\net6.0\Calculadora.ConsoleApp.exe
+C:\Users\danie\Desktop\Academia do Programador 2022\Calculadora\Calculadora.ConsoleApp\bin\Debug\net6.0\Calculadora.ConsoleApp.deps.json
+C:\Users\danie\Desktop\Academia do Programador 2022\Calculadora\Calculadora.ConsoleApp\bin\Debug\net6.0\Calculadora.ConsoleApp.runtimeconfig.json
+C:\Users\danie\Desktop\Academia do Programador 2022\Calculadora\Calculadora.ConsoleApp\bin\Debug\net6.0\Calculadora.ConsoleApp.dll
+C:\Users\danie\Desktop\Academia do Programador 2022\Calculadora\Calculadora.ConsoleApp\bin\Debug\net6.0\ref\Calculadora.ConsoleApp.dll
+C:\Users\danie\Desktop\Academia do Programador 2022\Calculadora\Calculadora.ConsoleApp\bin\Debug\net6.0\Calculadora.ConsoleApp.pdb
+C:\Users\danie\Desktop\Academia do Programador 2022\Calculadora\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\Academia do Programador 2022\Calculadora\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\Academia do Programador 2022\Calculadora\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Academia do Programador 2022\Calculadora\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.AssemblyInfo.cs
+C:\Users\danie\Desktop\Academia do Programador 2022\Calculadora\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Academia do Programador 2022\Calculadora\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.dll
+C:\Users\danie\Desktop\Academia do Programador 2022\Calculadora\Calculadora.ConsoleApp\obj\Debug\net6.0\ref\Calculadora.ConsoleApp.dll
+C:\Users\danie\Desktop\Academia do Programador 2022\Calculadora\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.pdb
+C:\Users\danie\Desktop\Academia do Programador 2022\Calculadora\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.genruntimeconfig.cache
